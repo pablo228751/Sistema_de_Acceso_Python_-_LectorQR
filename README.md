@@ -27,7 +27,7 @@ También hay funciones para abrir la barrera y para leer y escribir en la tarjet
 
 ## Videos
 
-[![Ciclo2 del programa](https://img.youtube.com/vi/shorts/i5eDsn3USb0?feature=share)](https://youtube.com/shorts/i5eDsn3USb0?feature=share)
+[![Ciclo del programa](https://img.youtube.com/vi/y_g7Ybj4uo8/0.jpg)](https://www.youtube.com/watch?v=y_g7Ybj4uo8)
 
 [![Ciclo del programa](https://img.youtube.com/vi/y_g7Ybj4uo8/0.jpg)](https://www.youtube.com/watch?v=y_g7Ybj4uo8)
 
