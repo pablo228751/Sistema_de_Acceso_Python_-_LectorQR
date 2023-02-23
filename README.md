@@ -1,8 +1,8 @@
 <h1 align="center">Sistema de Acceso con Servidor en Python + Lector QR</h1>
 
 <p align="center">
-  <img src="https://miurl.com/imagen1.png" alt="Descripción de la imagen">
-  <img src="https://miurl.com/imagen2.png" alt="Descripción de la imagen">
+  <img src="imagen1.jpg" alt="Placas en la torre de la Barrera">
+  <img src="imagen2.jpg" alt="Lector QR">
 </p>
 
 <p align="center">
@@ -26,16 +26,16 @@ También hay funciones para abrir la barrera y para leer y escribir en la tarjet
 
 
 ## Videos
+
+[![Ciclo2 del programa](https://img.youtube.com/vi/shorts/i5eDsn3USb0?feature=share)](https://youtube.com/shorts/i5eDsn3USb0?feature=share)
+
 [![Ciclo del programa](https://img.youtube.com/vi/y_g7Ybj4uo8/0.jpg)](https://www.youtube.com/watch?v=y_g7Ybj4uo8)
 
 
 
-- [Video 2](https://youtu.be/y_g7Ybj4uo8)
 
-<p align="center">
-  <img src="https://miurl.com/imagen3.png" alt="Descripción de la imagen">
-  <img src="https://miurl.com/imagen4.png" alt="Descripción de la imagen">
-</p>
+
+
 
 
 ## Licencia
