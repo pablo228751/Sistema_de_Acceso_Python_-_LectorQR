@@ -1,0 +1,24 @@
+El código es un script de Python que se encarga de realizar la gestión de usuarios en un sistema de control de acceso. La lógica principal del código es la siguiente:
+
+Primero, se lee el archivo "config.dat" que contiene información sobre la configuración del sistema y se almacena el valor de la dirección IP (HOST) en una variable.
+
+Luego, se definen varias funciones que se utilizan para realizar distintas tareas relacionadas con la gestión de usuarios.
+
+La función "grabar_usuComp" es utilizada para escribir en un archivo los usuarios que se han registrado en el sistema.
+La función "recibir_lista_usuarios" se utiliza para obtener la lista de usuarios actualmente registrados en el sistema.
+La función "borrar_base" permite borrar todos los registros de usuarios de la base de datos del sistema.
+La función "grabar_base" permite escribir los usuarios en la base de datos del sistema.
+La función "leer_ARCHIVO" permite leer los usuarios almacenados en un archivo.
+A continuación, se define un diccionario "datos_DIC" que se utiliza para almacenar los usuarios nuevos que se quieren registrar en el sistema.
+
+Se lee el archivo "usuarios.txt" que contiene la lista de usuarios nuevos y se agrega cada usuario al diccionario "datos_DIC" con un valor inicial de "*T;".
+
+Se lee el archivo "usuarios_comp.txt" que contiene una copia local de la base de datos del sistema, y se agrega cada usuario al diccionario "datos_DIC". Si un usuario ya existe en el diccionario, se actualiza su estado.
+
+Finalmente, se envía el diccionario "datos_DIC" a la base de datos del sistema para que los usuarios sean registrados en el sistema.
+
+En resumen, el código se encarga de registrar los usuarios en el sistema, actualizar la información de los usuarios registrados y mantener una copia local de la base de datos del sistema.
+
+
+
+
