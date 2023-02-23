@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Las placas Arduino utilizan varias bibliotecas para realizar diferentes tareas. El objetivo de este programa es controlar una barrera que se abre y se cierra en función de los datos recibidos a través de una conexión TCP/IP (servidor python) y una comunicación serie.
+  El objetivo de este programa es controlar una barrera que se abre y se cierra en función de los datos recibidos a través de una conexión TCP/IP (servidor python) y una comunicación serie.
 
 Las bibliotecas utilizadas son las siguientes:
 
