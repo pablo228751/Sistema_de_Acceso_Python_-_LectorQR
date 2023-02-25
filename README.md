@@ -25,11 +25,19 @@ También hay funciones para abrir la barrera y para leer y escribir en la tarjet
 </p>
 
 
-## Videos
+## Video 1
 
 [![Ciclo del programa](https://img.youtube.com/vi/y_g7Ybj4uo8/0.jpg)](https://www.youtube.com/watch?v=y_g7Ybj4uo8)
 
-[![Ciclo del programa](https://img.youtube.com/vi/y_g7Ybj4uo8/0.jpg)](https://www.youtube.com/watch?v=y_g7Ybj4uo8)
+
+## Video 2
+
+[Funcionamiento 1](https://www.youtube.com/shorts/i5eDsn3USb0)
+
+
+## Video 3
+
+[Funcionamiento 2](https://www.youtube.com/shorts/3x2ztXqxOoI)
 
 
 
@@ -38,6 +46,6 @@ También hay funciones para abrir la barrera y para leer y escribir en la tarjet
 
 
 
-## Licencia
 
-Mi proyecto genial está bajo la licencia MIT. Ver `LICENSE` para más información.
+
+
