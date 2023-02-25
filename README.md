@@ -32,12 +32,14 @@ También hay funciones para abrir la barrera y para leer y escribir en la tarjet
 
 ## Video 2
 
-[Funcionamiento 1](https://www.youtube.com/shorts/i5eDsn3USb0)
-
+[Funcionamiento 2](https://www.youtube.com/shorts/3x2ztXqxOoI)
 
 ## Video 3
 
-[Funcionamiento 2](https://www.youtube.com/shorts/3x2ztXqxOoI)
+[Funcionamiento 1](https://www.youtube.com/shorts/i5eDsn3USb0)
+
+
+
 
 
 
