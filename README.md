@@ -36,7 +36,7 @@ También hay funciones para abrir la barrera y para leer y escribir en la tarjet
 
 ## Video 3
 
-[Funcionamiento 1](https://www.youtube.com/shorts/i5eDsn3USb0)
+[Funcionamiento 3](https://www.youtube.com/shorts/i5eDsn3USb0)
 
 
 
